@@ -1,3 +1,3 @@
 # simple_shell
-Group work simple shell
+Group work simple shell with Amen Mengstu
 
